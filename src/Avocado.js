@@ -1,9 +1,9 @@
-import avocado from './avocado.jpeg';
+
 
 function Avocado() {
     return (
         <div>
-            <img src={avocado} alt="avocado" />
+            <img src="https://github.com/Nataliaiscoding/avocado-tomato/blob/main/src/avocado.jpeg?raw=true" alt="avocado" />
         </div>
     )
 }
